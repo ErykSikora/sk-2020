@@ -34,6 +34,8 @@
    * DNS Servers 2: 62.179.1.63
   
     Przygotuj dokumentację graficzną Twojej sieci domowej, uwzględnij adresy i urządzenia
+    ![Dokumentacja techniczna ErySik](https://user-images.githubusercontent.com/31596171/81838879-11149680-9547-11ea-9d12-2853d991971e.png)
+
 
 3. Zarejestruj konto w CISCO Academy celem pobrania Packet tracer 
    * https://www.netacad.com/portal/self-enroll/c/1022312 - zrobione
