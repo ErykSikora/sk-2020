@@ -16,8 +16,15 @@
    * Adres: 127.0.0.1/8
    * Maska: 255.255.255.0
    * Adres bramy: 192.168.1.1
-   * DNS Servers 1: 62.179.1.62
-   * DNS Servers 2: 62.179.1.63
+   * DNS Servers 1: 192.168.100.1
+   * DNS Servers 2: 127.0.0.1
+
+1.3 [Linux CentOS](https://www.centos.org/)
+   * Adres: 192.168.1.0
+   * Maska: 255.255.255.0
+   * Adres bramy: 192.168.1.1
+   * DNS Servers 1: ...
+   * DNS Servers 2: ...
 
     Powyższe parametry uzyskaj na wszystkich z wymienionych systemów
 
